@@ -1,0 +1,1 @@
+Copy path: option + command + c}
